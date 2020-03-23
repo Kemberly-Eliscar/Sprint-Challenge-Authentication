@@ -1,0 +1,11 @@
+- [ ] What is the purpose of using _sessions_?
+    Sessions allows authentication using cookies.
+
+- [ ] What does bcrypt do to help us store passwords in a secure manner.
+    Bcrypt hashes passwords and salts.
+
+- [ ] What does bcrypt do to slow down attackers?
+    Bcrypt will run a time constraint to slow down hackers 12ms is common in what we were taught
+
+- [ ] What are the three parts of the JSON Web Token?
+    payload, options, and secret.
